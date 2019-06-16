@@ -3,13 +3,11 @@
 </h1>
 <br>
 <p align='center'>
-  <img src='https://imgs.xkcd.com/comics/password_strength.png' alt='xkcd' />
-</p>
-
-<br>
-
-<p align='center'>
   Tools and strategies for users to create stronger and more memorable passwords.
+</p>
+<br>
+<p align='center'>
+  <img src='https://imgs.xkcd.com/comics/password_strength.png' alt='xkcd' />
 </p>
 <br>
 <p align='center'>
