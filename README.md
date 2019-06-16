@@ -3,7 +3,7 @@
 
 Tools and strategies for users to create stronger and more memorable passwords.
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+Contributions welcome :) Please add links via a PR or create an Issue to start a discussion.
 
 ### Information
 * [xkcd password commic](https://www.xkcd.com/936/) - Short and intuitive explanation of literally everything else in this list.
