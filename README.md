@@ -1,11 +1,18 @@
 # awesome-password-security[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![xkcd password strength cartoon](https://imgs.xkcd.com/comics/password_strength.png)
 
-Tools and strategies for users to create stronger and more memorable passwords.
+<br>
 
-Contributions welcome :) Please add links via a PR or create an Issue to start a discussion.
+<p align='center'>
+  Tools and strategies for users to create stronger and more memorable passwords.
+</p>
+<br>
+<p align='center'>
+  Contributions welcome :) Please add links via a PR or create an Issue to start a discussion.
+</p>
+<br>
 
-### Information
+## Information
 * [xkcd password commic](https://www.xkcd.com/936/) - Short and intuitive explanation of literally everything else in this list.
 * [reddit thread on xkcd password commic](https://www.reddit.com/r/askscience/comments/wmzrz/is_xkcd_right_about_password_strength/) - More technical and in depth explanations on the comic. 
 * [Computerphile: how to choose a secure password](https://www.youtube.com/watch?v=3NjQ9b3pgIg) - YouTube video explaining how to choose a secure password.
@@ -19,7 +26,8 @@ Contributions welcome :) Please add links via a PR or create an Issue to start a
 * [TED talk on paswords](https://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd) - Kind of like the xkcd comic, but a TED Talk.
 * [Naked Security: how to pick a proper password](https://nakedsecurity.sophos.com/2014/10/01/how-to-pick-a-proper-password/) - Remember! Non text/phone based 2FA significantly increases the security of accounts!  
 * [Alternative xkcd comic](https://xkcd.com/538/) - Remember, cryptography is for math and code not meatspace. 
-### Tools
+
+## Tools
 * [xk password tool](https://xkpasswd.net/s/) - Inspired by the xkcd comic. Offers multiple configurations and customizable options.
 * [How to use dice to make passwords](https://sec.eff.org/blog/how-to-roll-a-strong-password-with-20-sided-dice-and-fandom-inspired-wordlists) - EFF explains how to make passwords using dice.
 * [check your password](https://howsecureismypassword.net/) - Tool to check the entropy of a password. Web based, so be careful, but created by Dashlane and open source.
