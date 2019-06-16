@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p align='center'>
-  Tools and strategies for users to create stronger and more memorable passwords.
+  Resources to learn about password security.
 </p>
 <br>
 <p align='center'>
