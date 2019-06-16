@@ -1,5 +1,10 @@
-# awesome-password-security[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![xkcd password strength cartoon](https://imgs.xkcd.com/comics/password_strength.png)
+<h1 align='center'>
+  Awesome Password Security 
+  <a href='https://awesome.re'><img src='https://awesome.re/badge.svg' alt='Awesome' /></a>
+</h1>
+<p align='cneter'>
+  <img src='https://imgs.xkcd.com/comics/password_strength.png' alt='xkcd password strength cartoon' />
+</p>
 
 <br>
 
