@@ -11,7 +11,9 @@
 </p>
 <br>
 <p align='center'>
-  Contributions welcome :) Please add links via a PR or create an Issue to start a discussion.
+  Contributions welcome :) 
+  <br>
+  Please add links via a PR or create an Issue to start a discussion.
 </p>
 <br>
 
